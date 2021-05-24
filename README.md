@@ -1,3 +1,3 @@
-# Go cards
+# Go
 
-Learning repository.
+Learning Go lang by building a Cards project.
