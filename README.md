@@ -1,1 +1,3 @@
-# go-cards
+# Go cards
+
+Learning repository.
