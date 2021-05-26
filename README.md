@@ -1,6 +1,6 @@
 # Go Lang
 
-Learning Go lang by building a Cards project.
+Learning Go lang.
 
   
 ## Hello World
@@ -8,7 +8,7 @@ Introductory hello world program.
 
 ## Cards
 
-It covers six different function, which are:
+It covers six different function, which gives basic understanding on how go works.
 
 * `newDeck`: Create a list of playing cards essentially an array of string.
 * `print`: Log out the contents of a deck of cards.
@@ -18,3 +18,7 @@ It covers six different function, which are:
 * `newDeckFromFile`: Load a list of cards from the local machine.
 
 It covers testcase of the same.
+
+## Structs
+
+A brief usage of structs.
