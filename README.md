@@ -19,6 +19,10 @@ It covers six different function, which gives basic understanding on how go work
 
 It covers testcase of the same.
 
-## Structs
+## Struct
 
-A brief usage of structs.
+A brief usage of struct.
+
+## Map
+
+A brief usage of Map.
