@@ -2,20 +2,26 @@ package main
 
 import "fmt"
 
+type contactInfo struct {
+	email   string
+	zipCode int
+}
+
 type person struct {
 	firstName string
 	lastName  string
+	contact   contactInfo
 }
 
 func main() {
-	// alex := person{firstName: "Alex", lastName: "Anderson"}
-	// fmt.Println(alex)
+	jim := person{
+		firstName: "Jim",
+		lastName:  "Cumber",
+		contact: contactInfo{
+			email:   "jim@gmail.com",
+			zipCode: 360007,
+		},
+	}
 
-	var alex person
-
-	alex.firstName = "Alex"
-	alex.lastName = "Anderson"
-
-	fmt.Println(alex) // {  }
-	fmt.Printf("%+v", alex)
+	fmt.Printf("%+v", jim)
 }
