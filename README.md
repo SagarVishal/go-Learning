@@ -26,3 +26,7 @@ A brief usage of struct.
 ## Map
 
 A brief usage of Map.
+
+## Interfaces
+
+A brief usage of Interfaces.
