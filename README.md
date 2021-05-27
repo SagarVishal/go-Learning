@@ -30,6 +30,6 @@ A brief usage of Map.
 ## Interfaces
 
 A brief usage of Interfaces.
-## Interface_http
+## Interface_Advance
 
-More advance topics on interface.
+More complex topics on interface by customizing writer interface.
