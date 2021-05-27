@@ -33,3 +33,9 @@ A brief usage of Interfaces.
 ## Interface_Advance
 
 More complex topics on interface by customizing writer interface.
+
+## Channels and Go Routines
+
+Short project to understand the brief usage of channels and go routines.
+
+* Make request to list of website and make sure each of the website are up and responding to http traffic.
